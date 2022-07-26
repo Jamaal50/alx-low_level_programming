@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-Module of **Low-level programming and algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX School](https://www.alxafrica.com/)**.
+Module of **Low-level programming and algorithm**, carried out during **Full Stack Software Engineering program** at **[ALX Africa School](https://www.alxafrica.com/)**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
@@ -9,7 +9,7 @@ Module of **Low-level programming and algorithm**, carried out during **Full Sta
 * Tested on Ubuntu 20.04 LTS
 
 ## Projects
-All of the following directories are projects done during the study:
+All of the following directories are projects done during the program:
 
 | Project name | Description |
 | ------------ | ----------- |
