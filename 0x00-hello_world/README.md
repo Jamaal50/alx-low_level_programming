@@ -7,7 +7,7 @@ Project done during **Full Stack Software Engineering Studies** at
 ## Requirements
 * Language(code): C
 * Language(Scripts): Bash 4.3.11(1)
-* Format: C89
+* Format: C89 Standard
 * Compiler: `gcc 4.8.4`
 * OS: Ubuntu 20.04 LTS
 * Style guideline: [Betty style](https://github.com/holbertonschool/Betty/wiki)
