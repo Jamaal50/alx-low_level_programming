@@ -3,9 +3,11 @@
 Project done during **Full Stack Software Engineering program** at **ALX Africa School**. It aims to learn about header files, functions, loops and nested loops in **C language**.
 
 ## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C89 standard
-* Tested on Ubuntu 20.04 LTS
+* Language: C
+* Compiler: `gcc 4.8.4`
+* Standard: C89
+* OS: Ubuntu 20.04 LTS
+* Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## Files
 All of the following files are programs written in C:
