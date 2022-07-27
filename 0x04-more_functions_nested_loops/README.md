@@ -2,10 +2,12 @@
 
 Project done during **Full Stack Software Engineering program** at **ALX Africa School**. It aims to learn about nested loops in **C language**.
 
-## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C89 standard
-* Tested on Ubuntu 20.04 LTS
+## Requirements
+* Language: C
+* Standard: C89
+* Compiler: gcc 4.8.4
+* OS: Ubuntu 20.04 LTS
+* Style Guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## Files
 All of the following files are programs written in C:
