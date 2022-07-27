@@ -2,7 +2,7 @@
 
 Module of **Low-level programming and algorithm**, carried out during **Full Stack Software Engineering program** at **[ALX Africa School](https://www.alxafrica.com/)**.
 
-## Technologies
+## Requirements
 * Language(code): C
 * Language(Script): Bash 4.3.11(1)
 * Compiler: `gcc 4.8.4`
