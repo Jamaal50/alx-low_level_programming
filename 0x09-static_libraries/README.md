@@ -1,9 +1,20 @@
-Module for ALX low level programming: Static libraries.
+# Static libraries
 
-1. libmy.a - is a static library containing certain functions.
+Project done during **Full Stack Software Engineering Program** at **ALX Africa School**. It aims to learn about static libraries in **C language**.
 
-2. create_static_lib.sh - is a bash script that creates a static library called
-   liball.a from all the .c files that are in the current working directory.
+## Requirements
+* Scripts: Bash 4.3.11(1)
+* Language: C
+* Format: C89 Standard
+* OS: Ubuntu 20.04 LTS
+* Style Guideline: [Betty style](https://github.com/holbertonschool/Betty/wiki)
+* Compiler: gcc 4.8.4`
 
-3. main.h - header file containing all the prototype functions for the library
-   to be created.
+## Files
+All of the following files are scripts and programs written in C:
+
+| Filename | Description |
+| -------- | ----------- |
+| libmy.a | Static library containing certain functions |
+| `create_static_lib.sh` | Bash script that creates a static library called `liball.a` from all the `.c` files that are in the current working directory |
+| `main.h` | header file containing all the prototype functions for the library to be created |
