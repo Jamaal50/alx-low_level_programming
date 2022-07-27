@@ -5,7 +5,7 @@ Project done during **Full Stack Software Engineering program** at **ALX Africa 
 ## Technologies
 * Language: C
 * Compiler: `gcc 4.8.4`
-* Standard: C89
+* Format: C89 Standard
 * OS: Ubuntu 20.04 LTS
 * Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
