@@ -3,10 +3,11 @@
 Module of **Low-level programming and algorithm**, carried out during **Full Stack Software Engineering program** at **[ALX Africa School](https://www.alxafrica.com/)**.
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C89 standard
-* Tested on Ubuntu 20.04 LTS
+* Language(code): C
+* Language(Script): Bash 4.3.11(1)
+* Compiler: `gcc 4.8.4`
+* Format: C89 standard
+* OS: Ubuntu 20.04 LTS
 
 ## Projects
 All of the following directories are projects done during the program:
