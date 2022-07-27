@@ -3,9 +3,11 @@
 Project done during **Full Stack Software Engineering Program** at **ALX Africa School**. It aims to learn how to debug in **C language**.
 
 ## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C89 standard
-* tested on Ubuntu 20.04 LTS
+* Language: C
+* Standard: C89
+* OS: Ubuntu 20.04 LTS
+* Compiler: gcc 4.8.4
+* Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## Files
 
