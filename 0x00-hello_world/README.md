@@ -1,13 +1,15 @@
-# C - Hello, World
+# Hello, World
 
 Project done during **Full Stack Software Engineering Studies** at
-**ALX School**. It aims to learn about what is entry point, basic commands
+**ALX Africa School**. It aims to learn about what is entry point, basic commands
 `(puts, printf, putchar)`, compilation process with gcc in **C language**.
 
-## Technologies
-* Scripts written in Bash 4.3.11(1)
-* C files are compiled using `gcc 4.8.4`
-* Tested on Ubuntu 20.04 LTS
+## Requirements
+* Language(code): C
+* Language(Scripts): Bash 4.3.11(1)
+* Compiler: `gcc 4.8.4`
+* OS: Ubuntu 20.04 LTS
+* Style guideline: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## Files
 All of the following files are scripts and programs written in C:
