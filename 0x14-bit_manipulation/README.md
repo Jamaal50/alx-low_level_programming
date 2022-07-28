@@ -11,6 +11,8 @@ Project done during **Full Stack Software Engineering Program** at **ALX Africa 
 
 ### Description
 ```
+| Filename | Description |
+| -------- | ----------- |
 | `main.h` | Contains the prototypes used in each files |
 | `0-binary_to_unit.c` | Function that converts a binary number to an unsigned int |
 | `1-print_binary.c` | Function that prints the binary representation of a number |
