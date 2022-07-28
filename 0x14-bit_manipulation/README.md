@@ -4,13 +4,15 @@ Project done during **Full Stack Software Engineering Program** at **ALX Africa 
 
 ## Requirements
 * Language: C
+* Script: Bash 4.3.11(1)
 * Format: C89 Standard
 * OS: Ubuntu 20.04 LTS
 * Compiler: `gcc 4.8.4`
 * Style guidelines: [Betty Style](https://github.com/holbertonschool/Betty/wiki)
 
 ### Description
-```
+All of the following files are scripts and programs written in C:
+
 | Filename | Description |
 | -------- | ----------- |
 | `main.h` | Contains the prototypes used in each files |
