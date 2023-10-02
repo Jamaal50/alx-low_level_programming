@@ -1,6 +1,6 @@
-C-program to learn argc & argv
+C-program to learn argc and argv
 
-- 0-whatsmyname.c - prints its name followed by a new line
+- 0-whatsmyname.c - prints its name followed by a new line.
 
 - 1-args.c - prints the number of arguments passed to it
 
