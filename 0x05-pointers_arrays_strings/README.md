@@ -1,1 +1,1 @@
-Pointers, arrays and strings in C 
+C - Pointers, arrays and strings in C 
